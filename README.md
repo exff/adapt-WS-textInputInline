@@ -1,8 +1,10 @@
-# adapt-contrib-textInput  
+Component shall be adated to show text input inline. 
+
+
 
 **Text Input** is a *question component* bundled with the [Adapt framework](https://github.com/adaptlearning/adapt_framework).  
 
-<img src="https://github.com/adaptlearning/documentation/blob/master/04_wiki_assets/plug-ins/images/textInput01.gif" alt="text input in action">  
+ 
 
 **Text Input** allows the user to input a free-form answer in response to an initial question. The author may supply multiple correct answers to accommodate, for example, variations in spelling. The author may also supply a suffix and prefix to be added to the text field.
 
