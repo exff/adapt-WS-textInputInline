@@ -1,4 +1,4 @@
-Component shall be adated to show text input inline. 
+**Component shall be adated to show text input inline.** 
 
 
 
