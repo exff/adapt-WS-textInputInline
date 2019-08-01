@@ -1,6 +1,6 @@
 **DO NOT USE --- WORK IN PROGRESS!!**
 
-**Current Adapt Core Component shall be adapted to show text input inline. The already existing plugin https://github.com/weberlance/adapt-textInput-inline does not work in framework v4.2.0 / AT v0.9.0 in my case any more.** 
+**Current Adapt Core Component shall be modified to show text input inline. The already existing plugin https://github.com/weberlance/adapt-textInput-inline does not work in framework v4.2.0 / AT v0.9.0 in my case any more.** 
 
 
 
