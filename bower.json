@@ -3,7 +3,7 @@
   "version": "3.0.1",
   "framework": ">=2.0.16",
   "homepage": "https://github.com/exff/adapt-WS-textInputInline/",
-  "issues": "https://github.com/exff/adapt-WS-textInputInline/,
+  "issues": "https://github.com/exff/adapt-WS-textInputInline/",
   "description": "A question component that allows the learner to input text inline based upon a question stem.",
   "main": "/js/adapt-WS-textInputInline.js",
   "displayName" : "Text Input Inline",
